@@ -1,0 +1,547 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of the happy successe &amp; victory obtained against the Turks of Argiers at Bugia, by His Majesties Fleet in the Mediterranean, under the command of Sr. Edw. Spragge as it is contained in a letter from the said Admiral, of the 11th of May, 1671 : together with an exact list of the Turks ships, burnt and destroyed, with the names of their commanders : as also, one other containing the names of such as were slain or wounded on the part of the English in this memorable action.</title>
+            <author>Spragge, Edward, Sir, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93706</idno>
+            <idno type="STC">Wing S5027</idno>
+            <idno type="STC">Wing T2558</idno>
+            <idno type="STC">ESTC R15206</idno>
+            <idno type="EEBO-CITATION">11924267</idno>
+            <idno type="OCLC">ocm 11924267</idno>
+            <idno type="VID">152751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 515:1 or 2318:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of the happy successe &amp; victory obtained against the Turks of Argiers at Bugia, by His Majesties Fleet in the Mediterranean, under the command of Sr. Edw. Spragge as it is contained in a letter from the said Admiral, of the 11th of May, 1671 : together with an exact list of the Turks ships, burnt and destroyed, with the names of their commanders : as also, one other containing the names of such as were slain or wounded on the part of the English in this memorable action.</title>
+                  <author>Spragge, Edward, Sir, d. 1673.</author>
+               </titleStmt>
+               <extent>7, [1] p., 1 folded leaf of plates.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified at reel 515:1 as Wing S5027 and at reel 2318:29 as Wing T2558 (identical items).</note>
+                  <note>Reproductions of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Turkey --  History --  1453-1683.</term>
+               <term>Turkey --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152751:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>A True and Perfect RELATION OF THE Happy SUCCESSE &amp; VICTORY Obtained againſt the Turks of Argiers AT BUGIA, By His MAJESTIES Fleet in the <hi>Mediterranean,</hi> under the Command OF S<hi rend="sup">r</hi> EDW. SPRAGGE. As it is contained in a <hi>Letter</hi> from the ſaid Admiral, of the Eleventh of <hi>May.</hi> 1671.</p>
+            <p>Together with an Exact LIST of the <hi>Turks</hi> Ships, Burnt and Deſtroyed, with the Names of their Commanders: As alſo, one other containing the Names of ſuch as were Slain or Wounded on the Part of the Engliſh in this Memorable Action.</p>
+            <p>Publiſhed by Command.</p>
+            <p>In the <hi>SAVOY:</hi> Printed by <hi>Tho. Newcomb.</hi> 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152751:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="3" facs="tcp:152751:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>
+               <hi>A True and Perfect Relation of the happy Succeſs and Victory obtained againſt the</hi> Turks <hi>of</hi> Argiers <hi>at</hi> Bugia, <hi>by His Ma<g ref="char:EOLhyphen"/>jeſties Fleet in the</hi> Mediterranean, <hi>under the command of Sir</hi> Edward Spragge.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving been Cruiſing for ſeveral days before <hi>Ar<g ref="char:EOLhyphen"/>giers,</hi> the Twentieth of <hi>April,</hi> being off at Sea, ſome Five or ſix Leagues, I met with the <hi>Mary, Hampſhire, Portſmouth,</hi> and <hi>Advice</hi> Fregats; and upon the notice they brought me of ſeveral <hi>Argiers</hi> Men of War being at <hi>Bugia,</hi> I called a Council of War, and it was voted, and thought fit, That I ſhould make the beſt of my way (the Wind being then Eaſterly) to ply up thither with the <hi>Mary, Warwick, Advice, Gar<g ref="char:EOLhyphen"/>land, Portſmouth Pink,</hi> and the Fireſhips, to endeavor the deſtroying them; the <hi>Hampſhire</hi> and <hi>Portſmouth</hi> Fregats being left to cruiſe off of <hi>Argiers</hi> till further order. The <hi>Dragon</hi> had been gone five days in chace of Two <hi>Argier</hi> Men of War, the Winds being then at S. W. it was ſuppoſed the Chace had carried him to the Eaſt<g ref="char:EOLhyphen"/>ward, and might at laſt be forced into <hi>Bugia,</hi> if not better Fortune, his being ſo long abſent, and his well Sailing giving me the greater hopes.</p>
+            <pb n="4" facs="tcp:152751:3"/>
+            <!-- PDF PAGE 57 -->
+            <p>The Twenty third, the <hi>Dragon</hi> came into me, having been two days in fight with the Two <hi>Argier</hi> Men of War which he chaſed, Capt. <hi>Herbert</hi> the Commander, being ſhot in the Face with a Musket ſhot, and Nine or ten of his men wounded with ſmall ſhot, who will all recover.</p>
+            <p>Until the Twenty eighth, the Winds were always Eaſterly, the ſame day, about Eight at Night, the Wind came up to the South Weſt, with very great Guſts and Rain, which diſabled my <hi>Little Eagle</hi> Fire<g ref="char:EOLhyphen"/>ſhip, leaving her not one Maſt ſtanding.</p>
+            <p>The Thirtieth, I had got her Maſted and Rigged again fit for ſervice, having luckily a Corn Boat with me taken from the Enemy, which with the help of other Topmaſts and Booms, Maſted her. In this Weather, the <hi>Warwick</hi> hapned to ſpring her Main Maſt again, and bore away to the Chriſtian ſhore; my <hi>Brigantine</hi> at the ſame time bore away, and as yet I have no news of her. The ſame day I got into <hi>Bugia</hi> Bay, and had a gale, which I thought would have carried me and my Fireſhips in upon them; but by that time we got within half ſhot of their Caſtles and Forts, it proved dead calm, and afterward the Wind came off the ſhore, and a little further in the Road quite contrary.</p>
+            <p>The Second of <hi>May,</hi> the Winds being ſo very un<g ref="char:EOLhyphen"/>certain, after having twice attempted with my Ships, and not able to do ſervice, for want of a certain Wind, every half hour bringing a ſeveral Wind with it, I re<g ref="char:EOLhyphen"/>ſolved to make an Attempt upon them in the night with my Boats, and the ſmalleſt of my Fireſhips which row<g ref="char:EOLhyphen"/>ed as well as a Long-Boat: About Twelve a Clock at Night, I ſent out all the Boats I could make, and the <hi>Eagle</hi> Fireſhip, under the command of my Eldeſt Lieu<g ref="char:EOLhyphen"/>tenant Maſter <hi>Nugent;</hi> but the Night proving very dark, and the high Land obſcuring the Ships as they neer'd them, they paſſed by the Ships (Lieutenant
+<pb n="5" facs="tcp:152751:3"/>
+               <!-- PDF PAGE 57 -->
+               <hi>Nugent</hi> leaving one of the Boats with the Fireſhip, be<g ref="char:EOLhyphen"/>ſides her own) and rowed in to diſcover the Enemy, giving the Captain of the Fireſhip orders, in caſe he found ſhoal Water, to come to an Anchor: He was not a minute from him, when he found himſelf within half Piſtol ſhot of the Ships; upon which, he ſteered off again to find the Fireſhip, which to his great aſtoniſhment was all in a flame. The Enemy then taking the Alarm, it was not convenient for the Boats to attempt boarding and burning them, they being full of Men. Had not this misfortune of the Fireſhip hapned, they might at this time have been deſtroyed without the loſs of a Man. The next day they unrigged all their Ships, and made a Boom with their Yards, Topmaſts, and Cables, buoyed up with Cask; in all which time we had no opportunity of Wind to do any thing upon them. My other little Fireſhip being ready primed, by an accident of a Piſtol fired by the Gunner, took fire, and was loſt; all my hopes and dependency relying upon her to do this buſi<g ref="char:EOLhyphen"/>neſs, in regard of her little draught of Water. Now having nothing to truſt to, but the <hi>Little Victory,</hi> I pre<g ref="char:EOLhyphen"/>ſently gave order to have her lightned to as ſmall a draught of water as could be, and brought her to eight foot.</p>
+            <p>On Munday Morning, being the Eighth of <hi>May,</hi> came to them ſeveral Recruits, both of Horſe and Foot, with Ammunition, as we ſuppoſe, from <hi>Argier,</hi> which they welcomed with great triumph by their firing of Guns from the Ships and Caſtles, and putting abroad their Co<g ref="char:EOLhyphen"/>lours. But not knowing what other Recruits might come, I took the firſt opportunity, and about Noon, the ſame day, it pleaſed God to favor us with a fair moderate Breeze at Eaſt, though after I had made the ſigns for my Men of War to draw into a Line, and fall on, the Wind dollour'd again, which made me deſpair of being able to attack them: But it pleaſed God to order it ſo, that
+<pb n="6" facs="tcp:152751:4"/>
+               <!-- PDF PAGE 58 -->about Two a Clock, the Gale came in as before; the <hi>Dragon, Advice,</hi> and <hi>Mary,</hi> borrowed too much of the South-Weſt ſhore; ſo that they were forced to let go their Anchors in Three Fathom and half Water, and ſo veered in, bringing their Ships broad ſide to paſs: I my ſelf came to an Anchor in Four Fathom, cloſe under their Caſtles and Walls, battering all of us upon their Ships and Caſtles for the ſpace of Two hours. I ſent in my Pinnace, the <hi>Maries</hi> and <hi>Dragons,</hi> to cut the Boom, which was very bravely performed, Lieutenant <hi>Pin</hi> commanding the <hi>Maries</hi> Boat, Lieut. <hi>Pierce</hi> the <hi>Dragons,</hi> and one <hi>Harman</hi> (a Reformado Seaman of mine) my own Pinnace; my Second Lieutenant, Mr. <hi>Earnly</hi> being hurt with a ſplinter in the Leg, and could not go; Eight of the <hi>Maries</hi> Boats Crew, and the Lieu<g ref="char:EOLhyphen"/>tenant were wounded with ſmall ſhot; Ten of the <hi>Dragons,</hi> and the Lieutenant wounded, and One killed; Seven killed out right in my own Pinnace, and all the reſt wounded except <hi>Harman</hi> that commanded. The Boom being then cut, I made the ſign for my Fireſhip to fall on: It pleaſed Almighty God to order it ſo, That ſhe got in, and brought up athwart of their Bolt-ſprits, their Ships being aground, and faſt to the Caſtles, burnt very well, and deſtroyed them all, there being in num<g ref="char:EOLhyphen"/>ber Ten Sail; Seven of which, were the beſt Men of War belonging to <hi>Argiers.</hi> Capt. <hi>Harris,</hi> Commander of the Fireſhip, his Maſters Mate, Gunner, and one of his Seamen, are deſperately wounded with ſmall ſhot; but I foreſeeing the deſperateneſs and danger of the ſer<g ref="char:EOLhyphen"/>vice that was to be done, Commiſſionated a ſecond Com<g ref="char:EOLhyphen"/>mander <hi>Henry Williams,</hi> one of my Maſters Mates, and late Commander of the <hi>Roſe</hi> Fireſhip, to take the charge upon him there on Board, in caſe the other ſhould miſ<g ref="char:EOLhyphen"/>carry, which he did accordingly, and performed it very well. The three other which we burnt, beſides the Men of War, prove to be a <hi>Genoueſe</hi> a ſmall <hi>Engliſhman,</hi> and <hi>Satea.</hi>
+            </p>
+            <pb n="7" facs="tcp:152751:4"/>
+            <!-- PDF PAGE 58 -->
+            <p>Upon the Tenth, about Eleven a Clock at Night, a <hi>Dutchman</hi> who hath been a Slave in <hi>Argiers</hi> for three years (and now with his Patron who commanded one of theſe Ships) made his eſcape by ſwimming on Board me, and told me for certain, That they confeſs 360 of their beſt Men and upwards, all <hi>Turks,</hi> Soldiers in Pay, loſt their lives on Board the reſpective Ships, by Fire and Gun-ſhot, not being able to get aſhore. But, he ſaith, he believes a great many more; for that their Ships were all extraordinary well manned, to the number of about 18 or 1900 Men, beſides 300 that arrived there that Morning from <hi>Argier,</hi> who had been (in our view) re<g ref="char:EOLhyphen"/>ceived in great triumph; The Caſtles and Town miſera<g ref="char:EOLhyphen"/>bly torn, with an infinite number of the Inhabitants killed and wounded; and that which hapned very lucki<g ref="char:EOLhyphen"/>ly to ſecond this Succeſs, was, That all their Chirurgeons Cheſts were burnt on Board their Ships, that they have not the leaſt Medicine to dreſs a Wound with.</p>
+            <p>Old <hi>Treky,</hi> their Admiral, is likewiſe wounded, who came with the beſt and chiefeſt Commanders in <hi>Argier,</hi> to order things in the beſt method they could for ſecu<g ref="char:EOLhyphen"/>ring their Ships, moſt of which are ſlain and wounded.</p>
+            <p>He alſo declares, That theſe Ships were purpoſely commanded out by the <hi>Duan</hi> to find me out, and fight me, where ever they met me; and to that end, all the beſt Guns in thoſe Ships remaining in the Mole, were taken out and mounted in theſe; but Eight of which, in each of theſe Ships, were put aſhore to lighten them the better, the reſt are all burnt and ſpoiled.</p>
+         </div>
+         <div type="list">
+            <pb facs="tcp:152751:5"/>
+            <!-- PDF PAGE 59 -->
+            <head>
+               <hi>An Exact Liſt of the</hi> Argier <hi>Ships burnt in</hi> Bugia, <hi>with their Number of Guns and Age. May</hi> 8. 1671.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Ships names.</cell>
+                     <cell role="label">Commanders</cell>
+                     <cell role="label">Guns</cell>
+                     <cell role="label">Years</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>White Horſe</hi>
+                     </cell>
+                     <cell>
+                        <hi>Tabark Rays</hi>
+                     </cell>
+                     <cell>34</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Orange Tree</hi>
+                     </cell>
+                     <cell>
+                        <hi>Courhaly</hi>
+                     </cell>
+                     <cell>34</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Cypreſs Trees</hi>
+                     </cell>
+                     <cell>
+                        <hi>Caram Hammett</hi>
+                     </cell>
+                     <cell>34</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Half-Moons</hi>
+                     </cell>
+                     <cell>
+                        <hi>Brayham Tagrin</hi>
+                     </cell>
+                     <cell>28</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pearl</hi>
+                     </cell>
+                     <cell>
+                        <hi>Brayham Turco</hi>
+                     </cell>
+                     <cell>26</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Golden Crown</hi>
+                     </cell>
+                     <cell>
+                        <hi>Halua Tagrin</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Half-Moon</hi>
+                     </cell>
+                     <cell>
+                        <hi>Hammet</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Prizes.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burnt near</hi> Tadellis, <hi>a Man of War</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Turks</hi> Captains Slain, <hi>Mehammet Segara, Mantuccero alias Buttercoper, Danſiker</hi> Renegado, <hi>Braham Rais, Courhali</hi> his Renegado (a <hi>Ge<g ref="char:EOLhyphen"/>noeſe)</hi> and next Captain under him.</p>
+            <p>Theſe are all I have yet an account of, though we are aſſured there are many more.</p>
+         </div>
+         <div type="list">
+            <head>A Liſt of the Men Killed and Wounded in the Ships following at <hi>Bugia. May</hi> 8. 1671.</head>
+            <list>
+               <head>The <hi>Revenge</hi> Admiral</head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>John Ernley</hi> Lieut.</item>
+                     <item>
+                        <hi>Thomas Latham</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Pepper</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Tucker</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Hutton</hi>
+                     </item>
+                     <item>
+                        <hi>Jonas Hodder</hi>
+                     </item>
+                     <item>
+                        <hi>William Wiſe</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Ireland</hi>
+                     </item>
+                     <item>
+                        <hi>John Curl</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Kent.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Slain.
+<list>
+                     <item>
+                        <hi>John Welch</hi>
+                     </item>
+                     <item>
+                        <hi>John Bennet</hi>
+                     </item>
+                     <item>
+                        <hi>William Kingate</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Tobias Hockaday</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bret</hi>
+                     </item>
+                     <item>
+                        <hi>John Mintridge.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Mary.</hi>
+               </head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>Edward Pin</hi> Lieut.</item>
+                     <item>
+                        <hi>Henry Horn</hi>
+                     </item>
+                     <item>
+                        <hi>Kent. Jones</hi>
+                     </item>
+                     <item>
+                        <hi>John Picket</hi>
+                     </item>
+                     <item>
+                        <hi>John Chapman</hi>
+                     </item>
+                     <item>
+                        <hi>George Limberry</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hucherſon</hi>
+                     </item>
+                     <item>
+                        <hi>William Eſſex</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Frogg</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Wry</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Slain.
+<list>
+                     <item>
+                        <hi>James Dolby</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Hopkins</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Dragon.</hi>
+               </head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>John Pierce</hi> Lieut.</item>
+                     <item>
+                        <hi>William Cotes</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Herbert</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Howard</hi>
+                     </item>
+                     <item>
+                        <hi>William Mills</hi>
+                     </item>
+                     <item>
+                        <hi>William Evans</hi>
+                     </item>
+                     <item>
+                        <hi>John West</hi>
+                     </item>
+                     <item>
+                        <hi>John Brown</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Cundall</hi>
+                     </item>
+                     <item>
+                        <hi>William Buſhell</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Hams</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Slain.
+<list>
+                     <item>
+                        <hi>William Watts</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Advice.</hi>
+               </head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>Matthew Aſhby.</hi>
+                     </item>
+                     <item>
+                        <hi>John Carr</hi>
+                     </item>
+                     <item>
+                        <hi>John Hempinſtall</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Slain.
+<list>
+                     <item>
+                        <hi>Humphrey Davis</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Garland.</hi>
+               </head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>Tiſe Ricordo</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Slain.
+<list>
+                     <item>
+                        <hi>John Fuſe</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Whitlaus</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Jackſon</hi>
+                     </item>
+                     <item>
+                        <hi>John Hopkins</hi>
+                     </item>
+                     <item>
+                        <hi>John Everſon</hi>
+                     </item>
+                     <item>
+                        <hi>George Daviſon</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Portſmouth Pink.</hi>
+               </head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>John Rinocks</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Victory</hi> Fireſhip.</head>
+               <item>Wounded.
+<list>
+                     <item>
+                        <hi>Leonard Harris</hi> Com<g ref="char:EOLhyphen"/>mander.</item>
+                     <item>
+                        <hi>John Burdock</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Francis</hi>
+                     </item>
+                     <item>
+                        <hi>John Hemſdall</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Ellet</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>Total Wounded 41</item>
+               <item>Total Slain 17</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="map">
+            <pb facs="tcp:152751:5"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:152751:6"/>
+            <!-- PDF PAGE 60 -->
+            <p>
+               <figure>
+                  <head>BUGIA</head>
+                  <head>Burning of the 7 Argiers Men of Warre, and 3 Prices, in the Port of BUGIA. May 8. 1671, by his Ma<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Fleet <hi>Vnder the Command of S.<hi rend="sup">r</hi> Edward Spragge, <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </head>
+                  <p>
+                     <list>
+                        <item>R. <hi>The Reuenge, S<hi rend="sup">r</hi> Edward Spragge Admirall,</hi>
+                        </item>
+                        <item>M. <hi>The Mary,</hi>
+                        </item>
+                        <item>A <hi>the Aduice,</hi>
+                        </item>
+                        <item>D. <hi>the Dragon</hi>
+                        </item>
+                        <item>G. <hi>the Garland,</hi>
+                        </item>
+                        <item>P. <hi>the Portsmouth Pink,</hi>
+                        </item>
+                        <item>B <hi>the Boome,</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <figDesc>view of ships and Bugia</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
